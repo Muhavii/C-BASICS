@@ -1,18 +1,18 @@
 using System;
 namespace Cond
 {
-    class Conditional
+    class game
     {
         static void Main(string[] args)
         {
-            int x = 5;
-            int y = 10;
+            Console.WriteLine(" Hello, Welcome to this mini game ");
+            Console.WriteLine(" To start, please type 'Start' ");
+            string input = Console.ReadLine();
 
-            if(x > y)
-            Console.WriteLine("True");
-
-            else
-            Console.WriteLine("False");
+            if (input == "Start")
+            {
+                Console.WriteLine("Okay, Perfect! Let's Begin");
+            }
         }
     }
 }
