@@ -1,4 +1,4 @@
-# Basic Concepts in C #
+# Basic Concepts in C#
 
 - I aspire to become a game developer, and C# is the third language I have learned after C++ and C.
 - Among these files is a calculator which is one of the first things I built to test my C# knowledge. Every now and then, I write random C# lines to stay sharp for Unity Engine, which of course uses C#.
