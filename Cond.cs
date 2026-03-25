@@ -1,7 +1,7 @@
 using System;
 namespace Conditions
 {
-    class myConditions
+    class Conditions
     {
         static void Main(string[] args)
         {

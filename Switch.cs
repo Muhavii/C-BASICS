@@ -1,7 +1,7 @@
 using System;
 namespace Origin
 {
-    class swissCheese
+    class Swisscheese
     {
         static void Main(string[] args)
         {

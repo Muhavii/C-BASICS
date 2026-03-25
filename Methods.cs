@@ -1,7 +1,7 @@
 using System;
 namespace Methods
 {
-    class myMethods
+    class Methods
     {
         static void Main(string[] args)
         {
