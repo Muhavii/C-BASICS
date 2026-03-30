@@ -1,5 +1,5 @@
 using System;
-namespace Calculator
+namespace Calculator 
 {
     class Calc
     {
